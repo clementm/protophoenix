@@ -1,0 +1,23 @@
+{
+  "name": "protophoenix",
+  "version": "0.1.0",
+  "description": "Phoenix protocol support as a javascript method",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m1ch3lcl/protophoenix.git"
+  },
+  "keywords": [
+    "p2p",
+    "protocol"
+  ],
+  "author": "Clément Michel",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/m1ch3lcl/protophoenix/issues"
+  },
+  "homepage": "https://github.com/m1ch3lcl/protophoenix#readme"
+}
